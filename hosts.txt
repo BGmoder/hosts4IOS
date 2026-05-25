@@ -1,3 +1,5 @@
+#!name=Hosts4IOS
+#!desc=Hosts file for unlocking and rejecting any kind trackers adopted for SR on IOS
 [Host]
 # Работающие IP без прокси
 ntc.party = 130.255.77.28
